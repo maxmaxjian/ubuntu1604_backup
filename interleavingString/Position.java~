@@ -1,0 +1,10 @@
+
+class Position {
+    public int x1;
+    public int x2;
+
+    public Position(int xval, int yval) {
+	x1 = xval;
+	x2 = yval;
+    }
+}
